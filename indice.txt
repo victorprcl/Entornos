@@ -1,2 +1,2 @@
-Capítulo 1: Introducción a Git.
-Capítulo 2: Repositorios remotos.
+Capítulo 1: Introducción a Git
+Capítulo 2: Repositorios remotos
